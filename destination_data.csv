@@ -1,0 +1,21 @@
+destination_id,destination,country,popular_season
+1,Paris,France,Spring
+2,New York,USA,Summer
+3,Tokyo,Japan,Autumn
+4,London,UK,Winter
+5,Rome,Italy,Spring
+6,Sydney,Australia,Summer
+7,Dubai,UAE,Autumn
+8,Vancouver,Canada,Winter
+9,Cape Town,South Africa,Spring
+10,Rio de Janeiro,Brazil,Summer
+11,Beijing,China,Autumn
+12,Moscow,Russia,Winter
+13,Bangkok,Thailand,Spring
+14,Berlin,Germany,Summer
+15,Mexico City,Mexico,Autumn
+16,Stockholm,Sweden,Winter
+17,Buenos Aires,Argentina,Spring
+18,Amsterdam,Netherlands,Summer
+19,Seoul,South Korea,Autumn
+20,Mumbai,India,Winter
